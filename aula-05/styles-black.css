@@ -1,0 +1,26 @@
+/* A cor de fundo  */
+.dark {
+    background-color: rgb(30, 30, 30);
+  }
+  
+  /* Modificações no titulo 'A família dos felinos' */
+  .dark h1{ 
+    background-color: rgb(15, 15, 15);
+    color: rgb(170, 170, 170);
+    border-color: black;
+  }
+  
+  /* Modificações nos items */
+  .dark .item {
+    background-color: rgb(15, 15, 15);
+    border-color: black;
+  }
+  
+  /* Modificações nos textos dos itens e cabeçalhos dos itens */
+  .dark .item {
+    color: rgb(230, 230, 230);
+  }
+
+  .dark #botao{
+      background-color: rgb(30, 30, 30);
+  }
